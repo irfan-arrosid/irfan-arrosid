@@ -6,7 +6,7 @@
   <li>:computer: My Tech Stack:</li>
   <ul>
     <li>Languages: <a href="https://nodejs.org/en">NodeJS</a>, <a href="https://go.dev/">Golang</a></li>
-    <li>Frameworks: <a href="https://expressjs.com/">ExpressJS</a>, <a href="https://gin-gonic.com/">Gin</a>, <a href="https://gofiber.io/">Fiber</a></li>
+    <li>Frameworks: <a href="https://expressjs.com/">ExpressJS</a>, <a href="https://gin-gonic.com/">Gin</a>, <a href="https://gofiber.io/">Fiber</a>, <a href="https://echo.labstack.com/">Echo</a></li>
     <li>Databases: <a href="https://www.postgresql.org/">PostgreSQL</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://www.mongodb.com/">MongoDB</a></li>
     <li>ORMs: <a href="https://sequelize.org/">Sequelize</a>, <a href="https://gorm.io/">GORM</a></li>
     <li>Daily OS: <a href="https://ubuntu.com/">Ubuntu</a></li>
