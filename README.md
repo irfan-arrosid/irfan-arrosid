@@ -1,7 +1,7 @@
 ## Hi there, I'm Irfan 👋
 
 <ul>
-  <li>🌱 I’m currently learning Backend Development using <strong>Golang</strong></li> and <strong>NodeJS</strong>
+  <li>🌱 I’m currently learning Backend Development using <strong>Golang</strong> and <strong>NodeJS</strong></li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/atdjli-irfan-arrosid-6a8467191/">LinkedIn</a>, <a href="https://twitter.com/irfan_arrosid">Twitter</a>, or <a href="https://www.instagram.com/irfan_arrosid/">Instagram</a></li>
   <li>:computer: My Tech Stack:</li>
   <ul>
